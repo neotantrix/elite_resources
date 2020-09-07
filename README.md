@@ -10,7 +10,7 @@ How to Use
 BindingsNew.rar
 
 The bindingsnew.rar is my entire set of keybinds, simply unzip it in you elite appdata directory. 
-usually found at: C:\Users\username\AppData\Local\Frontier Developments\Elite Dangerous\Options\Bindings
+It is usually found at: C:\Users\username\AppData\Local\Frontier Developments\Elite Dangerous\Options\Bindings
 
 
 PipMacroQwerty6.ahk
@@ -26,11 +26,11 @@ without logging any ip's. It simply stores them in ram for 300 seconds and they 
 It requires a python environment be present and the python install must also include scapy and playsound. 
 Once you have your python environment setup just run 'pip install scapy playsound' inside the python environment. 
 Also, it requires port forwarding be setup on your router, and by default sniffs port 5100 - but that can be edited to whatever you want (Line 48). 
-Line 9 requires you to point it to and mp3 you'd like played when a new IP is detected (remember to use backslash for python)
+(Line 9) requires you to point it to an mp3 you'd like played when a new IP is detected (remember to use backslash for python)
 
 
 NohBoardOverlay.rar
 
 This is my custom overlay for the app found here:  https://github.com/ThoNohT/NohBoard/releases
 Unzip the file to whatever directory you set your nohboard install too, and that's it, should be ready to go.
-Please credit me if you decide to use this, maybe throw a link to my twitch up wwww.twitch.tv/neotantrix.
+Please credit me if you decide to use this, maybe throw a link to my twitch up http://www.twitch.tv/neotantrix.
