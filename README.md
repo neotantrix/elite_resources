@@ -23,8 +23,8 @@ Once downloaded just run the script and it will bind 1-6 above your QWERTY to si
 alert_new_ip.py
 
 This is a python script that will play a sound anytime a new ip connects to the port you designate in the script, and does this
-without logging any ip's. It simply stores them in ram for 300 seconds and they are discarded after. setting up this one is a bit more complicated. 
-It requires a python environment be present and the python install must also include scapy and playsound. 
+without logging any ip's. It simply stores them in ram for 300 seconds and they are discarded after. Setting up this one will be a bit more complicated, 
+it requires a python environment be present and the python install must also include scapy and playsound. 
 Once you have your python environment setup just run 'pip install scapy playsound' inside the python environment. 
 Also, it requires port forwarding be setup on your router, and by default sniffs port 5100 - but that can be edited to whatever you want (Line 48). 
 (Line 9) requires you to point it to an mp3 you'd like played when a new IP is detected (remember to use backslash for python)
