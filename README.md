@@ -9,8 +9,9 @@ How to Use
 
 BindingsNew.rar
 
-The bindingsnew.rar is my entire set of keybinds, simply unzip it in you elite appdata directory. 
-It is usually found at: C:\Users\username\AppData\Local\Frontier Developments\Elite Dangerous\Options\Bindings
+The bindingsnew.rar is my entire set of keybinds, simply unzip it in you elite appdata directory.                                                  
+It is usually found at: C:\Users\username\AppData\Local\Frontier Developments\Elite Dangerous\Options\Bindings                                 
+Or can be accessed by pressing win+r then typing '%appdata%'
 
 
 PipMacroQwerty6.ahk
