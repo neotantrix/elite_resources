@@ -10,7 +10,7 @@ How to Use
 BindingsNew.rar
 
 The bindingsnew.rar is my entire set of keybinds, simply unzip it in you elite appdata directory. 
-example: C:\Users\<username>\AppData\Local\Frontier Developments\Elite Dangerous\Options\Bindings
+\br example: C:\Users\\<username>\AppData\Local\Frontier Developments\Elite Dangerous\Options\Bindings
 
 
 PipMacroQwerty6.ahk
